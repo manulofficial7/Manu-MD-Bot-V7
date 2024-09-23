@@ -11,7 +11,32 @@
       "required": true
     },  
 
+    "READ_CMD": {
+      "description": "Put true or false.",
+      "required": true
+    },
+    
     "AUTO_VOICE": {
+      "description": "Put true or false.",
+      "required": true
+    },
+    
+    "AUTO_TYPING": {
+      "description": "Put true or false.",
+      "required": true
+    },
+    
+    "ALWAYS_ONLINE": {
+      "description": "Put true or false.",
+      "required": true
+    },
+    
+    "AUTO_RECORDING": {
+      "description": "Put true or false.",
+      "required": true
+    },
+    
+        "AUTO_READ_STATUS": {
       "description": "Put true or false.",
       "required": true
     },
